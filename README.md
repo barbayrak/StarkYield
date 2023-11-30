@@ -50,3 +50,5 @@ yarn dev
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) with a browser where you have Argent X installed to interact with the dapp.
+
+This was developed early stages of Cairo
